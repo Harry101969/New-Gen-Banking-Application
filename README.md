@@ -1,8 +1,5 @@
-# React + Vite
+Make sure to install node modules using the "npm install" command.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the landing page of the web-application:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/Harry101969/New-Gen-Banking-Application/assets/123268915/b883c7eb-ef33-43af-a2b4-66a1bbf6e266)
